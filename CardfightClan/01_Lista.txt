@@ -1,0 +1,83 @@
+Cardfight_Vanguard Clan:
+
+Angel_Feather = United_Sanctuary
+Aqua_Force = Magallanica
+BanG_Dream = Other
+Bermuda_Triangle = Magallanica
+Cray_Elemental = Other
+Dark_Irregulars = Dark_Zone
+Dimension_Police = Star_Gate
+Gear_Chronicle = Dark_Zone
+Genesis = United_Sanctuary
+Gold_Paladin = United_Sanctuary
+Granblue = Magallanica
+Great_Nature = Zoo
+Kagero = Dragon_Empire
+Link Joker = Star_Gate
+Megacolony = Zoo
+Murakumo = Dragon_Empire
+Narukami = Dragon_Empire
+Neo_Nectar = Zoo
+Nova_Grappler = Star_Gate
+Nubatama = Dragon_Empire
+Oracle_Think_Tank = United_Sanctuary
+Order = Other
+Pale_Moon = Dark_Zone
+Royal_Paladin = United_Sanctuary
+Shadow_Paladin = United_Sanctuary
+Spike_Brothers = Dark_Zone
+Tachikaze = Dragon_Empire
+
+Cardfight_Vanguard Area:
+
+Angel_Feather = ANF
+Genesis = GEN
+Gold_Paladin = GP
+Oracle_Think_Tank = OTT
+Royal_Paladin = RP 
+Shadow_Paladin = SP 
+
+Kagero = 
+Murakumo = 
+Narukami =
+Nubatama =
+Tachikaze = 
+
+Others :
+Touken_Ranbu
+BanG_Dream
+Monster_Strike
+Shaman_King
+Record_Of_Ragnarok
+Iron_Armor_Little_Treasure
+VSPO
+CoroCoro
+
+Dark_Irregulars =
+Pale_Moon =
+Spike_Brothers =
+Gear_Chronicle =
+
+Thai_Onlye_Cards = 
+Dimension_Police = 
+Etranger = 
+Link_Joker = 
+Nova_Grappler = 
+
+Great_Nature = 
+Megacolony = 
+Neo_Nectar = 
+
+Dragon_Empire = 
+Dark_States = 
+Keter_Sanctuary = 
+
+Aqua_Force = 
+Bermuda_Triangle = 
+Granblue = 
+
+Stoicheia = 
+Brand_Gate = 
+Lyrical_Monasterio = 
+
+Cray_Elemental =  

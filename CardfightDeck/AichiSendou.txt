@@ -1,0 +1,21 @@
+Deck do Aichi_Sendou: Royal_Paladin
+
+0-BringerOfGoodLuckEpona 5000/10000 (Critical)
+0-Flogal (Critical)
+0-Glyme
+0-Margal (Draw)
+0-StardustTrumpeter 6000
+0-YggdrasilMaidenElaine (Heal)
+
+1-AuspiceFalcon
+1-KnightSquireAllen
+1-LittleSageMarron 8000 = x2
+1-StrongKnightRounoria (PerfectGuard)
+1-Wingal 6000
+
+2-BlasterBlade
+2-KnightOfSilenceGallatin
+2-SageOfTheArtsJauron
+
+3-AlfredEarly (Force)
+3-StardriveDragon
