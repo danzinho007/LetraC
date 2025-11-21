@@ -1,0 +1,27 @@
+CaptainTsubasa_Manga:
+
+KidsDream:
+Volumes = 1 ao 13
+OneShot = 1
+
+BoysFight:
+Volumes = 13 ao 25
+
+J BoysChallenge:
+Volumes = 25 ao 37
+
+WorldYouth:
+Volumes = 1 ao 18
+OneShot = 3
+
+2000 MilleniumDream:
+OneShot = 1
+
+RoadTo2022:
+Volumes= 1 ao 15
+OneShot = Vários
+
+Golden23:
+Volumes = 1 ao 12
+OneShot = Vários
+
