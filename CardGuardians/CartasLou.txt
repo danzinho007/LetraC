@@ -1,0 +1,80 @@
+!!! Cartas do Louis !!!
+
+Deck Básico : 8 cartas
+
+Ataque :
+Corte = 3x
+Corte Diagonal = 1x
+Alma do Espadachim = 1x
+Defesa :
+Defende = 3x
+Buff :
+Desafiar = 1x
+Fúria Engarrafada = 1x
+
+Resumo :
+Ataque 4 Defesa 3 Buff 1
+
+==========================
+Outras :
+
+Vermelhas / Ataque :
+
+Arremessar Pedra ( 2 evoluções )
+Ataca 2x + Aplique 2 Exposto > Ataca 3x + Aplique 3 Exposto
+
+Corte ( 2 evoluções )
+Ataca 1x > Ataca 2x
+
+Corte Amplo ( 2 evoluções )
+Ataca todos inimigos > Ataca todos inimigos 2x
+
+Corte Diagonal ( 2 evoluções )
+Ataca 2x Fúria +1 > Ataca 2x Fúria +2
+
+Corte Mestre ( 3 evoluções )
+Ataca por carta Corte no seu Baralho
++ Ação + 1
+
+Corte Rápido ( 2 evoluções )
+Ataca 1x e se a próxima carta for uma de corte,  jogue ela 2x
+
+Corte Tornado ( 2 evoluções )
+Ataca todos 2x por cartas Corte jogadas nesse turno >>
+Ataca todos 3x por cartas Corte jogadas nesse turno
+
+Ombrada ( 2 evoluções )
+Ataca 2x por Defesa jogada nesse turno
+
+Pico de Poder ( 3 evoluções )
+Ganhe +2 Fortalecer 
+Ataca 1x por Fortalecer 
+>>
+Ganhe +4 Fortalecer
+
+Azuis / Defesa :
+
+Bloqueio de Aegis ( 2 evoluções )
+Defenda 2x e no próximo turno mantaenha seu escudo
+
+Defesa Blindada ( 2 evoluções )
+Ganhe +2 Revestido por Carta jogada nesse turno
+
+Defesa Ecoante ( 2 evoluções )
+Defente e cria 2 Ecos de Corte
+
+Defesas Rápidas ( 2 evoluções )
+Defende. Se o inimigo pretende Atacar : Ação +1
+
+Verdes / Buff :
+
+Intimidor ( 3 evoluções )
+Gasta 1 fúria e ganha 1 fortalecer por ponto
+
+Quebrar Vontade ( 2 evoluções )
+Aplique 2 Exposto, Fraqueza e Cegueira 
+1-Ação + 1
+
+Tentar novamente ( 2 evoluções )
+Descarte a sua mão : Ação +1
+Descarte a sua mão : Ação +2

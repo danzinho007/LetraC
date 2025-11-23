@@ -1,0 +1,88 @@
+Versões 
+v1.2.2
+v2.10
+v3.12.0
+v3.13.2
+v3.14.1
+v3.15.1
+v3.16
+v3.17
+v3.18.2
+v3.19.2
+v3.20
+v3.20.1
+
+v0.62
+https://www.reddit.com/r/card_guardians/comments/nw7utx/version_062_bug_fixes/
+
+v0.8
+https://www.reddit.com/r/card_guardians/comments/oysr3z/patch_notes_08/
+
+v1.2.2 Bug fixes and overall polishing!
+🐞🔨 Bug fixes!
+📧 Added a 'Report Issue' system in the settings menu!
+📝 New visuals for our GDPR screen!
+✨ Minor improvements to feedback all around.
+
+v1.5 New region, new major mechanics and more!
+-Region 5 Fishmen Island : Pirates ahead
+-Reactive Charge & Unleash
+In the Fishmen's Island some enemies have the ability to react to your plays, charging energy and then unleashing it all at once!
+For example, if you play Red cards, the Greedy Crab will react, charging and then using this charges to unleash a powerful attack!
+https://www.reddit.com/r/card_guardians/comments/uj2wdh/patch_notes_15_new_region_new_major_mechanics_and/
+
+v1.6 Faster gameplay, Oriana's Rework and more!
+https://www.reddit.com/r/card_guardians/comments/vc2t8e/patch_notes_16_faster_gameplay_orianas_rework_and/
+
+v2.10 Piggy Bank!
+🐷 Piggy Bank: Earn crystals while you play, smash it to claim rewards! 
+🐞🔨 A lot of bug fixes! 
+
+v3.12 The Wanted Board
+https://www.reddit.com/r/card_guardians/comments/1dtu4mv/version_312_the_wanted_board/
+
+v3.13 Quests and better perfomance
+In this version we revamped the daily and weekly quests! Enhancements have been made to the overall performance, the game should run faster and lighter (especially the inventory)! We also fixed some bugs (check them on the link below)!
+https://www.reddit.com/r/card_guardians/comments/1ehqh80/version_313_quests_and_better_performance/
+
+v3.14 New bounties on the Wanted Board
+https://www.reddit.com/r/card_guardians/comments/1f53ytb/version_314_new_bounties_on_the_wanted_board/
+
+v3.15 New bounties for the Fallen Village
+-Wanted Board: 24 new bounties are available for the Fallen Village!
+-Lots of bugfixes.
+https://www.reddit.com/r/card_guardians/comments/1fqqdu2/version_315_new_bounties_for_the_fallen_village/
+
+v3.15.1
+https://www.reddit.com/r/card_guardians/comments/1g0ps2x/v3151_updates/
+
+v3.16 New bounties for the Fishmen Island
+In this version, we’ve completed the Bounties on the Wanted Board up to the latest chapter. Head over to Fishmen Island to hunt down, defeat, and collect those Crystals!
+If you run into any issues, hit the 'Report a Problem' button and let us know!
+https://www.reddit.com/r/card_guardians/comments/1g9p7vx/version_316_new_bounties_for_the_fishmen_island/
+
+v3.17 Chaotic Towers Launch
+What’s new?
+-Chaotic Towers: A brand-new game mode with endless possibilities to explore!
+-Bug fixes to keep your experience running smoothly.
+-Fixed an issue where Duplicate Event did not work.
+https://www.reddit.com/r/card_guardians/comments/1gwo338/version_317_chaotic_towers_launch/
+
+v3.18 is live on both Android and iOS! Have you checked it out yet?
+✨ This version focuses on bug fixes, small quality of life improvements and polishing touches. We think the bigger one is that if you pick Oriana, the game will no longer automatically switch back to Louis on your next session.
+https://www.reddit.com/r/card_guardians/comments/1hilvbf/version_318_bugfixes_and_quality_of_life/
+
+v3.19 Oriana revamp
+https://www.reddit.com/r/card_guardians/comments/1ic61xf/heroes_update_v319_is_here_orianas_revamp/
+
+v3.19.2 Oriana's revamp!
+🎴 Brand new cards added for Oriana and others have been tweaked!
+🔮 Changes to Oriana's Special Power!
+🐞🔨 Bugs have been fixed, check them here: Você não tem acesso a este documento.
+https://doc.clickup.com/3015740/p/h/2w11w-31203/7be91e3646c8831/2w11w-142173
+
+v3.20 Hero Pass
+https://www.reddit.com/r/card_guardians/comments/1iywt0x/heroes_v320_is_here_introducing_the_hero_pass/
+
+v3.20.1
+https://www.reddit.com/r/card_guardians/comments/1j0i2ah/version_3201_is_now_available_for_all_players/

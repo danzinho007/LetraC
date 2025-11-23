@@ -1,0 +1,17 @@
+Torre Caótica Cartas :
+
+Ataque :
+Corte = 3x
+Corte Diagonal = 1x
+Defesa :
+Defende = 3x
+Buff :
+Desafiar = 1x
+
+Resumo :
+Ataque 4 Defesa 3 Buff 1
+Total = 8 cartas 
+
+Ataque 4 > 5
+Defesa 3 > 5
+Buff 1 > 2

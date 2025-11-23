@@ -1,0 +1,44 @@
+Monstros :
+
+-Nome = 
+Mundo / HP / Ataque / Defesa / Especialidades
+
+-Abelha Operário  = ? 6500 / 650 / ??? / Veneno 1
+-Max,o Max-otauro = 1 6500
+-GoblinBravão     = 1 3900 / 120
+-MãeRato          = 1 3100 / 
+-ChefGoblin       = 1 2300 / ?   / 240 
+
+-Goblin           = 1 900
+-GosmaBoba        = 1 800 
+-Rato             = 1 600
+-Gosma            = 1 450
+
+-AbelhaOperário 
+6500 Vida com Veneno 1 e Ataque 650
+
+-CapitãoDasVinhas
+86000 Vida c/ Ataque_5000
+
+-GuardaMedroso
+67000 com Defendendo 7500
+
+-Moitinho
+11000 Vida com Espinho 2 e Ataque 500
+
+-Planta Assassina
+17000 Vida com Espinho 2 e Ataque 1000
+
+-Rato
+5000 Vida com Ataque 400
+
+-Rato das Vinhas
+50000 Vida com Conjurando e Ataque 1100
+
+-Vinny
+20000 Vida com Defendendo 1300 Provocar 2 e Ataque 850
+73000 c/ Espinhos 1500
+86000 c/ Provocar_2T + Espinhos 1750 + Ataque_2800
+
+Boss 5-10 : Rainha Beatriz
+59000 Vida com Conjurando

@@ -1,0 +1,39 @@
+Conunto do Louie :
+
+Nome do Conjunto = Gasto / Normal  
+Cavaleiro = G / N
+Esqueleto = G / N
+Gnoll Bolodo = G / N 
+Paladino = G / N
+Djinn = G / N
+
+-Cavaleiro : 3/6
+Atq 173 Def 206 HP 1405
+-Esqueleto : 3/6
+Atq 203 Def 160 HP 755
+-Gnoll Bolado :
+
+-Paladino :
+
+-Djinn :
+
+Atual : 
+Atq 564 Def 294 HP 2180
+
+Cimitarra Djinn 20/20
+Elmo Cavaleiro 20/20 
+Armadura Gnoll Bolado 20/20
+Luvas Gnoll Bolado 20/20
+Pingente Esqueleto 20/20
+Botas Cavaleiro 20/20
+
+Resumo ?
+Cavaleiro = 2x
+Djinn = 1x
+Esqueleto = 1x
+Gnoll Bolado = 2x
+
+Tenho :
+Arma = Adaga Esqueleto !
+Arma = Espada Paladino
+Elmo = Elmo Gnoll Bolado !!

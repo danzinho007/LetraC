@@ -1,0 +1,31 @@
+Efeitos Card Guardians 
+
+Ataque Hemorrágico
+No próximo turno, este inimigo irá Atacar causando 540 de dano, se o ataque diminuir a vida, ele também causará sangramento
+
+Carregando :
+No próximo turno, este inimigo esperará e não fará nada, carregando uma habilidade poderosa
+
+Conjurando :
+No próximo turno, este inimigo irá Conjurar um novo inimigo para a batalha ( se houver espaço, max 2 monstros )
+
+Desafiado :
+Quando atacado com uma carta de ataque, fúria soma 1 
+
+Espinhos
+No próximo turno, este inimigo receberá o status de Espinhos, caso 250/450 de dano ao receber um ataque, irá durar 2 turnos
+
+Exposto :
+Aumenta o dano de Ataque recebido pelo portador em 30%
+
+Fortalecer :
+No próximo turno, este inimigo aumentará seu dano em 5% por carga. Dura 2 turnos
+
+Provocar :
+No próximo turno, este inimigo usará Provocar, impedindo você de mudar seu alvo. Dura 3 turnos
+
+Revestido :
+No início do turno, o portador se defende 1x
+
+Veneno :
+No próximo turno, este inimigo usará Veneno em você, causando 176 de dano por 1 turno

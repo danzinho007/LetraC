@@ -1,0 +1,38 @@
+Mundo 6 :
+
+6-0 = Guarda Medroso
+Atq = Defende / 600 / 
+Prêmio =
+
+6-1 = PLanta Assassina e Gosma Boba
+Atq = 1300/400/Defende/1700/
+Prêmio : Carta adicional + Oficina
+
+6-2 = Guarda Medroso e Vinny
+Atq = Defende / 650 / 1000 / 650 / 
+Prêmio : Carta adicional + Covil / Oficina
+
+6-3 = Capitão das Vinhas
+Atq = 1080 / Defende / 1800 / 1080 /  
+Prêmio : Carta adicional + Covil / Oficina
+
+6-4 = Planta Assassina + Vinny
+Defender = 1500 /  
+Prêmio : Carta adicional + Covil / Oficina
+
+5-7 = Rato das Vinhas
+Defender = X / X / 
+Prêmio : Carta adicional
+
+5-8 = Abelha Operário e Vinny
+Defender = X / 500 / 850 / 
+Prêmio : Carta adicional + Remover / Duplicar
+
+5-9 = Planta Assassina + Abelha Operário
+Defender = 1000 / 500 / 
+
+5-10 = 2x Abelha Operário e Vinny
+Defender = X / 1300 / 
+
+5-11 = Rainha Beatriz
+Defender = X / 1500 / 

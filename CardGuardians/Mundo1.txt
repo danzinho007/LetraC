@@ -1,0 +1,28 @@
+Mundo 1 :
+
+1/10 = Gosma 
+Defender =  
+Prêmio : Carta adicional
+
+2/10 = Goblin
+Defender = 80 
+Prêmio : Melhora
+
+3/10 = 2x Rato
+Defender = 100
+Prêmio : Carta adicional
+
+4/10 = Goblin + Gosma Boba
+Defender = ?
+Prêmio : Carta adicional + Melhora
+
+5/10 = Rato + 2x GosmaBoba
+Defender = 50 / 40
+Prêmio : Carta adicional + Melhora
+
+6/10 = GoblinBravão
+Defender = 120
+Prêmio : Carta adicional
+
+7/10 = ChefGoblin
+Defender = 
