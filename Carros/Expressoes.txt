@@ -1,0 +1,61 @@
+Marca : Toyota
+Nome : Supra 3.0i Turbo
+Ano : 1993
+Engine ( Motor ) = Inline
+Cylinders = 6
+Fuel ( Gasolina ) = Gasolina
+Engine Alignment ( Alinhamento do motor ) = Longitudinal
+Engine Size ( Tamanho do motor ) = 2.997 cm�
+Displacement ( Deslocamento )
+Engine capacity ( Capacidade do motor ) = 182.9 cu-in
+Bore ( Calibre ) = 86.0 x 86.0 mm
+Stroke ( Derrame ) = 3.39 x 3.39 inches ( polegadas )
+Valves ( v�lvulas ) = 24
+Aspiration ( Aspira��o ) = Turbo
+Compression Ratio ( Taxa de Compress�o ) = 8.5
+Maximum Power ( For�a m�xima ) = 330 ps ou 326 bhp
+Output ( Resultado ) = 243 kW
+Horsepower ( cavalos de for�a ) = 5.600 rpm
+Maximum torque : 441 Nm ou 325 lb.ft 4.800 rpm
+Drive Wheels ( Rodas Motrizes ) = RWD
+Traction ( Tra��o )
+Drivetrain ( Drivetrain )
+Transmission Gearbox ( Transmiss�o de Marcha ) = Manual
+Number os speeds ( N�mero de velocidades ) = 5
+
+Fuel consumption ( Consumo de Combust�vel ) = L 
+Economy ( Economia ) = mpg
+Range ( Alcance ) = km ou miles ( milhas )
+Fuel Tank Capacity ( Capacidade do Tanque de Combust�vel ) = gallons ( gal�es
+CO2 emissions ( Emiss�o de CO2 - G�s Carb�nico )
+
+Performance ( Performa )
+
+Top Speed ( Velocidade M�xima ) = km/h ou Mph
+Acceleration 0 to 100km/h / 0 to 62 mph ( Acelera��o de 0 a 100 km/h ou 0 a 62 mph ) = s
+
+Dimensions ( Dimens�o )
+Aerodynamics ( Aerodin�micas )
+Weight ( Peso )
+
+Wheelbase ( Dist�ncia entre eixos ) = cm ou inches 
+Length ( Comprimento ) = cm ou inches
+Width ( largura )
+Height ( altura )
+Max. Towing Capacity Weight ( Peso de capacidade m�xima de reboque )
+Drag Coefficient ( coeficiente de arrasto )
+Front Brakes - Disc Dimensions ( Freios dianteiros - dimens�es do disco )
+Rear Brakes ( freios traseiros )
+Front Tyres - Rims Dimensions ( Dimens�es dos aros dos freios dianteiros )
+Rear Tyres ( freios traseiros )
+Curb Weight ( peso bruto )
+Weight-Power Output Ratio ( Rela��o peso-pot�ncia de sa�da )
+Trunk / Boot capacity ( Capacidade do tronco / iniciliza��o )
+Front Suspension ( Suspens�o Dianteira )
+Rear ... ( ... Traseira )
+
+Engine ( motor )
+Horsepower / hp ( Pot�ncia )
+weighs ( peso )
+top speed ( velocidade m�xima )
+wheel drive / AWD ( roda )

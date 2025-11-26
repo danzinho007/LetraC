@@ -1,0 +1,40 @@
+Mecânica Automotiva 
+
+---Estrutura :
+Chassi
+Carroceria
+Motor
+Transmissão
+Sistema de Direção
+Sistema de Suspensão
+
+-Chassi 
+Suporte do veículo
+Formato resistente
+Chasse de construção = Tipo paralelo, tem vigas retas
+Chasse Monobloco = Veículos de carga 
+
+-Carroceria
+Cobertura do veículo
+
+-Instrumentos :
+Velocímetro 
+Odômetro
+Indicador de combustível
+Temperatura da água 
+
+-Suspensão
+Amortecedor
+
+-Sistema de Direção
+Parte mais importante pra segurança
+Direção Hidráulica = 
+
+Página 10
+
+Dicionário :
+
+arrefecimento = 
+longarinas = 
+rebitadas = 
+solavancos = 

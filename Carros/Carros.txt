@@ -1,0 +1,30 @@
+Carros Fabricante :
+A B C = OK
+
+Adamo
+Agrale
+Alfa Romeo
+Ariel
+Asia
+Aston Martin
+Audi
+Availone
+
+Bentley
+Bianco
+BMWW
+BRM
+Bugatti
+BYD 
+
+Cadillac
+Caterham
+CBT 
+Charmonix
+Chana
+Changan
+Chery
+Chevrolet
+Chrysler
+Citroen
+Cross Lander
